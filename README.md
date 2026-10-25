@@ -15,6 +15,8 @@ The better model (transfer learning) is deployed as an interactive web app. Uplo
 
 **[Try the live demo](https://mybinder.org/v2/gh/niketa282/landmark-classifier/HEAD?urlpath=voila%2Frender%2Fapp.ipynb)**. It runs on Binder, a free service, so it can take a minute or two to start.
 
+Need photos to try it on? Use photos from [Unsplash](https://unsplash.com/).
+
 ---
 
 ## Dataset
